@@ -1,0 +1,4 @@
+it's necessary to put in the end of file enter
+3 2
+1 2
+1 3
