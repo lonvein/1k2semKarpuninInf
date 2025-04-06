@@ -1,4 +1,4 @@
-def solve_cubes():
+'''def solve_cubes():
     n = int(input())
     name = input().strip()
     cubes = [input().strip() for _ in range(n)]
@@ -37,4 +37,6 @@ def solve_cubes():
                 order[match_to[j]] = j + 1
         print(' '.join(map(str, order)))
 
-solve_cubes()
+solve_cubes()'''
+
+
